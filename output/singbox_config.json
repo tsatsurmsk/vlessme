@@ -32,13 +32,15 @@
       "tag": "proxy",
       "outbounds": [
         "auto",
-        "DE ФРГ (auto)",
+        "DE Германия (auto)",
+        "JP Япония (auto)",
         "NL Нидерланды (auto)",
-        "🇳🇱 NL Нидерланды | 78.159.250.214:443 | tcp+reality",
-        "🇳🇱 NL Нидерланды | 78.159.250.214:443 | tcp+reality #2",
-        "🇳🇱 NL Нидерланды | 78.159.250.214:443 | tcp+reality #3",
-        "🇩🇪 DE ФРГ | 116.203.7.223:34257 | tcp+reality",
-        "🇩🇪 DE ФРГ | 78.17.178.125:443 | tcp+reality"
+        "🇩🇪 DE Германия | 150.241.101.222:443 | tcp+reality",
+        "🇩🇪 DE ФРГ | 94.156.179.71:443 | tcp+reality",
+        "🇳🇱 NL Нидерланды | 138.124.113.18:443 | tcp+reality",
+        "🇩🇪 DE ФРГ | 79.137.207.130:443 | tcp+reality",
+        "🇯🇵 JP Япония | 31.76.91.24:443 | tcp+reality",
+        "🇩🇪 DE ФРГ | 79.137.207.130:443 | tcp+reality #2"
       ],
       "default": "auto"
     },
@@ -46,11 +48,12 @@
       "type": "urltest",
       "tag": "auto",
       "outbounds": [
-        "🇳🇱 NL Нидерланды | 78.159.250.214:443 | tcp+reality",
-        "🇳🇱 NL Нидерланды | 78.159.250.214:443 | tcp+reality #2",
-        "🇳🇱 NL Нидерланды | 78.159.250.214:443 | tcp+reality #3",
-        "🇩🇪 DE ФРГ | 116.203.7.223:34257 | tcp+reality",
-        "🇩🇪 DE ФРГ | 78.17.178.125:443 | tcp+reality"
+        "🇩🇪 DE Германия | 150.241.101.222:443 | tcp+reality",
+        "🇩🇪 DE ФРГ | 94.156.179.71:443 | tcp+reality",
+        "🇳🇱 NL Нидерланды | 138.124.113.18:443 | tcp+reality",
+        "🇩🇪 DE ФРГ | 79.137.207.130:443 | tcp+reality",
+        "🇯🇵 JP Япония | 31.76.91.24:443 | tcp+reality",
+        "🇩🇪 DE ФРГ | 79.137.207.130:443 | tcp+reality #2"
       ],
       "url": "https://www.gstatic.com/generate_204",
       "interval": "3m",
@@ -58,10 +61,22 @@
     },
     {
       "type": "urltest",
-      "tag": "DE ФРГ (auto)",
+      "tag": "DE Германия (auto)",
       "outbounds": [
-        "🇩🇪 DE ФРГ | 116.203.7.223:34257 | tcp+reality",
-        "🇩🇪 DE ФРГ | 78.17.178.125:443 | tcp+reality"
+        "🇩🇪 DE Германия | 150.241.101.222:443 | tcp+reality",
+        "🇩🇪 DE ФРГ | 94.156.179.71:443 | tcp+reality",
+        "🇩🇪 DE ФРГ | 79.137.207.130:443 | tcp+reality",
+        "🇩🇪 DE ФРГ | 79.137.207.130:443 | tcp+reality #2"
+      ],
+      "url": "https://www.gstatic.com/generate_204",
+      "interval": "3m",
+      "tolerance": 50
+    },
+    {
+      "type": "urltest",
+      "tag": "JP Япония (auto)",
+      "outbounds": [
+        "🇯🇵 JP Япония | 31.76.91.24:443 | tcp+reality"
       ],
       "url": "https://www.gstatic.com/generate_204",
       "interval": "3m",
@@ -71,9 +86,7 @@
       "type": "urltest",
       "tag": "NL Нидерланды (auto)",
       "outbounds": [
-        "🇳🇱 NL Нидерланды | 78.159.250.214:443 | tcp+reality",
-        "🇳🇱 NL Нидерланды | 78.159.250.214:443 | tcp+reality #2",
-        "🇳🇱 NL Нидерланды | 78.159.250.214:443 | tcp+reality #3"
+        "🇳🇱 NL Нидерланды | 138.124.113.18:443 | tcp+reality"
       ],
       "url": "https://www.gstatic.com/generate_204",
       "interval": "3m",
@@ -81,105 +94,127 @@
     },
     {
       "type": "vless",
-      "tag": "🇳🇱 NL Нидерланды | 78.159.250.214:443 | tcp+reality",
-      "server": "78.159.250.214",
+      "tag": "🇩🇪 DE Германия | 150.241.101.222:443 | tcp+reality",
+      "server": "150.241.101.222",
       "server_port": 443,
-      "uuid": "4054fdc2-ee80-4419-8a8e-d937df4719e2",
+      "uuid": "749a5df1-2d12-45cf-80f3-f85ea6b2e405",
       "flow": "xtls-rprx-vision",
       "tls": {
         "enabled": true,
-        "server_name": "qq.utiltools.site",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "firefox"
-        },
-        "reality": {
-          "enabled": true,
-          "public_key": "drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI",
-          "short_id": "00000000"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇳🇱 NL Нидерланды | 78.159.250.214:443 | tcp+reality #2",
-      "server": "qq.utiltools.site",
-      "server_port": 443,
-      "uuid": "4054fdc2-ee80-4419-8a8e-d937df4719e2",
-      "flow": "xtls-rprx-vision",
-      "tls": {
-        "enabled": true,
-        "server_name": "qq.utiltools.site",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "firefox"
-        },
-        "reality": {
-          "enabled": true,
-          "public_key": "drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI",
-          "short_id": ""
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇳🇱 NL Нидерланды | 78.159.250.214:443 | tcp+reality #3",
-      "server": "qq.utiltools.site",
-      "server_port": 443,
-      "uuid": "4054fdc2-ee80-4419-8a8e-d937df4719e2",
-      "flow": "xtls-rprx-vision",
-      "tls": {
-        "enabled": true,
-        "server_name": "qq.utiltools.site",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "qq"
-        },
-        "reality": {
-          "enabled": true,
-          "public_key": "drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI",
-          "short_id": ""
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇩🇪 DE ФРГ | 116.203.7.223:34257 | tcp+reality",
-      "server": "116.203.7.223",
-      "server_port": 34257,
-      "uuid": "00ee2eeb-cb0e-453c-b151-c8cf28089d31",
-      "tls": {
-        "enabled": true,
-        "server_name": "play.google.com",
+        "server_name": "google.com",
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
         },
         "reality": {
           "enabled": true,
-          "public_key": "5FkOfDtgsGr856IC5mE1c27qzl_HQ85onkcaIzd_qgk",
-          "short_id": "601e43eb94a28919"
+          "public_key": "Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8",
+          "short_id": ""
         }
       }
     },
     {
       "type": "vless",
-      "tag": "🇩🇪 DE ФРГ | 78.17.178.125:443 | tcp+reality",
-      "server": "78.17.178.125",
+      "tag": "🇩🇪 DE ФРГ | 94.156.179.71:443 | tcp+reality",
+      "server": "94.156.179.71",
       "server_port": 443,
-      "uuid": "6c713691-3ca2-4446-ad25-113d1bed6b03",
+      "uuid": "967064b5-3272-431e-8dce-9519acfb94be",
       "flow": "xtls-rprx-vision",
       "tls": {
         "enabled": true,
-        "server_name": "cdn.tbank.ru",
+        "server_name": "de2.zestful.bond",
         "utls": {
           "enabled": true,
           "fingerprint": "firefox"
         },
         "reality": {
           "enabled": true,
-          "public_key": "jcp4Lj_qYzxtkalm_XFjrmvqEMGRG7sb19yMwLe16WE",
-          "short_id": "e0215064d8d1fd7c"
+          "public_key": "KS0F6q2PTY1s6y2sH5PdrznYqprIkUBtS1masvcrJjo",
+          "short_id": "823257b7b9ab9d02"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇳🇱 NL Нидерланды | 138.124.113.18:443 | tcp+reality",
+      "server": "138.124.113.18",
+      "server_port": 443,
+      "uuid": "1f4c983e-382c-d2fa-b2dc-7981f02b34de",
+      "flow": "xtls-rprx-vision",
+      "tls": {
+        "enabled": true,
+        "server_name": "iamsterdam.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "firefox"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "1RFs75L42oUjmgEKqahFVrKKN52cosDkrWskT053D3o",
+          "short_id": "0aafc7b3b9"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇩🇪 DE ФРГ | 79.137.207.130:443 | tcp+reality",
+      "server": "79.137.207.130",
+      "server_port": 443,
+      "uuid": "1f4c983e-382c-d2fa-b2dc-7981f02b34de",
+      "flow": "xtls-rprx-vision",
+      "tls": {
+        "enabled": true,
+        "server_name": "lvz.de",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "firefox"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "5NHgGSXmIyLoslNxkfnH9ZUojx_WafjIhllNUEAhIwc",
+          "short_id": "ea7acce8b971"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇯🇵 JP Япония | 31.76.91.24:443 | tcp+reality",
+      "server": "31.76.91.24",
+      "server_port": 443,
+      "uuid": "dfc0cb9d-f005-41b0-848c-7703bd39d0de",
+      "flow": "xtls-rprx-vision",
+      "tls": {
+        "enabled": true,
+        "server_name": "jp.s3-cloud.org",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "edge"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "QVkd5uoSbUA7rHVLtIoJB4iRp4l0zuw0H9qzQBh3lHs",
+          "short_id": "7a3f9e2b1c8d4f6a"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇩🇪 DE ФРГ | 79.137.207.130:443 | tcp+reality #2",
+      "server": "79.137.207.130",
+      "server_port": 443,
+      "uuid": "1f4c983e-382c-d2fa-b2dc-7981f02b34de",
+      "flow": "xtls-rprx-vision",
+      "tls": {
+        "enabled": true,
+        "server_name": "lvz.de",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "firefox"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "5NHgGSXmIyLoslNxkfnH9ZUojx_WafjIhllNUEAhIwc",
+          "short_id": "ea7acce8b971"
         }
       }
     },
