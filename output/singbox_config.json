@@ -42,30 +42,25 @@
         "SE Швеция (auto)",
         "SG Сингапур (auto)",
         "US США (auto)",
-        "🇩🇪 DE ФРГ | 23.88.39.46:1230 | tcp+reality",
-        "🇳🇱 NL Нидерланды | 78.159.250.214:443 | tcp+reality",
-        "🇩🇪 DE ФРГ | 64.188.70.56:443 | tcp+reality",
-        "🇳🇱 NL Нидерланды | 217.19.122.170:8443 | tcp+reality",
-        "🇦🇹 AT Австрия | 157.173.25.108:443 | tcp+reality",
         "🇫🇷 FR Франция | 185.163.126.96:443 | tcp+reality",
-        "🇳🇱 NL Нидерланды | 201.51.25.136:443 | tcp+reality",
+        "🇦🇹 AT Австрия | 157.173.25.108:443 | tcp+reality",
+        "🇩🇪 DE ФРГ | 64.188.70.56:443 | tcp+reality",
+        "🇩🇪 DE ФРГ | 23.88.39.46:1230 | tcp+reality",
         "🇩🇪 DE ФРГ | 88.216.70.39:443 | tcp+reality",
-        "🇸🇬 SG Сингапур | 13.229.157.214:46105 | tcp+reality",
-        "🇳🇱 NL Нидерланды | 2.27.118.10:443 | tcp+reality",
-        "🇩🇪 DE ФРГ | 116.203.7.223:34257 | tcp+reality",
+        "🇳🇱 NL Нидерланды | 217.19.122.170:8443 | tcp+reality",
         "🇳🇱 NL Нидерланды | 201.51.10.240:443 | tcp+reality",
-        "🇸🇬 SG Сингапур | 13.229.157.214:35544 | tcp+reality",
         "🇳🇱 NL Нидерланды | 2.26.254.102:443 | tcp+reality",
-        "🇳🇱 NL Нидерланды | 2.27.118.10:443 | tcp+reality #2",
-        "🇳🇱 NL Нидерланды | 2.27.118.10:443 | tcp+reality #3",
-        "🇸🇪 SE Швеция | 89.125.37.91:41445 | tcp+reality",
         "🇪🇪 EE Эстония | 138.124.100.29:443 | tcp+reality",
-        "🇳🇱 NL Нидерланды | 217.19.122.38:443 | tcp+reality",
-        "🇳🇱 NL Нидерланды | 176.119.141.136:8443 | tcp+reality",
-        "🇺🇸 US США | 216.126.233.253:15891 | tcp+reality",
-        "🇪🇪 EE Эстония | 141.98.165.53:443 | tcp+reality",
-        "🇧🇪 BE Бельгия | 109.69.218.164:443 | tcp+reality",
         "🇳🇴 NO Норвегия | 87.120.104.25:8443 | tcp+reality",
+        "🇳🇱 NL Нидерланды | 78.159.250.214:443 | tcp+reality",
+        "🇧🇪 BE Бельгия | 109.69.218.164:443 | tcp+reality",
+        "🇺🇸 US США | 216.126.233.253:15891 | tcp+reality",
+        "🇳🇱 NL Нидерланды | 2.27.118.10:443 | tcp+reality",
+        "🇳🇱 NL Нидерланды | 176.119.141.136:8443 | tcp+reality",
+        "🇩🇪 DE Германия | 188.241.241.36:8443 | tcp+reality",
+        "🇳🇱 NL Нидерланды | 2.27.118.10:443 | tcp+reality #2",
+        "🇸🇪 SE Швеция | 89.125.37.91:41445 | tcp+reality",
+        "🇸🇬 SG Сингапур | 13.229.157.214:54528 | tcp+reality",
         "🇺🇸 US США | 47.89.186.170:55861 | tcp+reality"
       ],
       "default": "auto"
@@ -74,30 +69,25 @@
       "type": "urltest",
       "tag": "auto",
       "outbounds": [
-        "🇩🇪 DE ФРГ | 23.88.39.46:1230 | tcp+reality",
-        "🇳🇱 NL Нидерланды | 78.159.250.214:443 | tcp+reality",
-        "🇩🇪 DE ФРГ | 64.188.70.56:443 | tcp+reality",
-        "🇳🇱 NL Нидерланды | 217.19.122.170:8443 | tcp+reality",
-        "🇦🇹 AT Австрия | 157.173.25.108:443 | tcp+reality",
         "🇫🇷 FR Франция | 185.163.126.96:443 | tcp+reality",
-        "🇳🇱 NL Нидерланды | 201.51.25.136:443 | tcp+reality",
+        "🇦🇹 AT Австрия | 157.173.25.108:443 | tcp+reality",
+        "🇩🇪 DE ФРГ | 64.188.70.56:443 | tcp+reality",
+        "🇩🇪 DE ФРГ | 23.88.39.46:1230 | tcp+reality",
         "🇩🇪 DE ФРГ | 88.216.70.39:443 | tcp+reality",
-        "🇸🇬 SG Сингапур | 13.229.157.214:46105 | tcp+reality",
-        "🇳🇱 NL Нидерланды | 2.27.118.10:443 | tcp+reality",
-        "🇩🇪 DE ФРГ | 116.203.7.223:34257 | tcp+reality",
+        "🇳🇱 NL Нидерланды | 217.19.122.170:8443 | tcp+reality",
         "🇳🇱 NL Нидерланды | 201.51.10.240:443 | tcp+reality",
-        "🇸🇬 SG Сингапур | 13.229.157.214:35544 | tcp+reality",
         "🇳🇱 NL Нидерланды | 2.26.254.102:443 | tcp+reality",
-        "🇳🇱 NL Нидерланды | 2.27.118.10:443 | tcp+reality #2",
-        "🇳🇱 NL Нидерланды | 2.27.118.10:443 | tcp+reality #3",
-        "🇸🇪 SE Швеция | 89.125.37.91:41445 | tcp+reality",
         "🇪🇪 EE Эстония | 138.124.100.29:443 | tcp+reality",
-        "🇳🇱 NL Нидерланды | 217.19.122.38:443 | tcp+reality",
-        "🇳🇱 NL Нидерланды | 176.119.141.136:8443 | tcp+reality",
-        "🇺🇸 US США | 216.126.233.253:15891 | tcp+reality",
-        "🇪🇪 EE Эстония | 141.98.165.53:443 | tcp+reality",
-        "🇧🇪 BE Бельгия | 109.69.218.164:443 | tcp+reality",
         "🇳🇴 NO Норвегия | 87.120.104.25:8443 | tcp+reality",
+        "🇳🇱 NL Нидерланды | 78.159.250.214:443 | tcp+reality",
+        "🇧🇪 BE Бельгия | 109.69.218.164:443 | tcp+reality",
+        "🇺🇸 US США | 216.126.233.253:15891 | tcp+reality",
+        "🇳🇱 NL Нидерланды | 2.27.118.10:443 | tcp+reality",
+        "🇳🇱 NL Нидерланды | 176.119.141.136:8443 | tcp+reality",
+        "🇩🇪 DE Германия | 188.241.241.36:8443 | tcp+reality",
+        "🇳🇱 NL Нидерланды | 2.27.118.10:443 | tcp+reality #2",
+        "🇸🇪 SE Швеция | 89.125.37.91:41445 | tcp+reality",
+        "🇸🇬 SG Сингапур | 13.229.157.214:54528 | tcp+reality",
         "🇺🇸 US США | 47.89.186.170:55861 | tcp+reality"
       ],
       "url": "https://www.gstatic.com/generate_204",
@@ -128,10 +118,10 @@
       "type": "urltest",
       "tag": "DE ФРГ (auto)",
       "outbounds": [
-        "🇩🇪 DE ФРГ | 23.88.39.46:1230 | tcp+reality",
         "🇩🇪 DE ФРГ | 64.188.70.56:443 | tcp+reality",
+        "🇩🇪 DE ФРГ | 23.88.39.46:1230 | tcp+reality",
         "🇩🇪 DE ФРГ | 88.216.70.39:443 | tcp+reality",
-        "🇩🇪 DE ФРГ | 116.203.7.223:34257 | tcp+reality"
+        "🇩🇪 DE Германия | 188.241.241.36:8443 | tcp+reality"
       ],
       "url": "https://www.gstatic.com/generate_204",
       "interval": "3m",
@@ -141,8 +131,7 @@
       "type": "urltest",
       "tag": "EE Эстония (auto)",
       "outbounds": [
-        "🇪🇪 EE Эстония | 138.124.100.29:443 | tcp+reality",
-        "🇪🇪 EE Эстония | 141.98.165.53:443 | tcp+reality"
+        "🇪🇪 EE Эстония | 138.124.100.29:443 | tcp+reality"
       ],
       "url": "https://www.gstatic.com/generate_204",
       "interval": "3m",
@@ -162,16 +151,13 @@
       "type": "urltest",
       "tag": "NL Нидерланды (auto)",
       "outbounds": [
-        "🇳🇱 NL Нидерланды | 78.159.250.214:443 | tcp+reality",
         "🇳🇱 NL Нидерланды | 217.19.122.170:8443 | tcp+reality",
-        "🇳🇱 NL Нидерланды | 201.51.25.136:443 | tcp+reality",
-        "🇳🇱 NL Нидерланды | 2.27.118.10:443 | tcp+reality",
         "🇳🇱 NL Нидерланды | 201.51.10.240:443 | tcp+reality",
         "🇳🇱 NL Нидерланды | 2.26.254.102:443 | tcp+reality",
-        "🇳🇱 NL Нидерланды | 2.27.118.10:443 | tcp+reality #2",
-        "🇳🇱 NL Нидерланды | 2.27.118.10:443 | tcp+reality #3",
-        "🇳🇱 NL Нидерланды | 217.19.122.38:443 | tcp+reality",
-        "🇳🇱 NL Нидерланды | 176.119.141.136:8443 | tcp+reality"
+        "🇳🇱 NL Нидерланды | 78.159.250.214:443 | tcp+reality",
+        "🇳🇱 NL Нидерланды | 2.27.118.10:443 | tcp+reality",
+        "🇳🇱 NL Нидерланды | 176.119.141.136:8443 | tcp+reality",
+        "🇳🇱 NL Нидерланды | 2.27.118.10:443 | tcp+reality #2"
       ],
       "url": "https://www.gstatic.com/generate_204",
       "interval": "3m",
@@ -201,8 +187,7 @@
       "type": "urltest",
       "tag": "SG Сингапур (auto)",
       "outbounds": [
-        "🇸🇬 SG Сингапур | 13.229.157.214:46105 | tcp+reality",
-        "🇸🇬 SG Сингапур | 13.229.157.214:35544 | tcp+reality"
+        "🇸🇬 SG Сингапур | 13.229.157.214:54528 | tcp+reality"
       ],
       "url": "https://www.gstatic.com/generate_204",
       "interval": "3m",
@@ -221,84 +206,22 @@
     },
     {
       "type": "vless",
-      "tag": "🇩🇪 DE ФРГ | 23.88.39.46:1230 | tcp+reality",
-      "server": "p1real1.greewebservices.ir",
-      "server_port": 1230,
-      "uuid": "08e75d41-4638-4cb1-80a1-d0d55083de36",
+      "tag": "🇫🇷 FR Франция | 185.163.126.96:443 | tcp+reality",
+      "server": "185.163.126.96",
+      "server_port": 443,
+      "uuid": "f04c0548-d934-4361-8d04-b98292a78bf4",
+      "flow": "xtls-rprx-vision",
       "tls": {
         "enabled": true,
-        "server_name": "play.googleapis.com",
+        "server_name": "fr-1.techprovide.online",
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
         },
         "reality": {
           "enabled": true,
-          "public_key": "xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8",
-          "short_id": "9b60d3"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇳🇱 NL Нидерланды | 78.159.250.214:443 | tcp+reality",
-      "server": "78.159.250.214",
-      "server_port": 443,
-      "uuid": "4054fdc2-ee80-4419-8a8e-d937df4719e2",
-      "flow": "xtls-rprx-vision",
-      "tls": {
-        "enabled": true,
-        "server_name": "qq.utiltools.site",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "firefox"
-        },
-        "reality": {
-          "enabled": true,
-          "public_key": "drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI",
-          "short_id": "00000000"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇩🇪 DE ФРГ | 64.188.70.56:443 | tcp+reality",
-      "server": "de2.balancer.vbuste-bot.com",
-      "server_port": 443,
-      "uuid": "318c935d-c195-41d3-99ad-9bbcfdab3386",
-      "flow": "xtls-rprx-vision",
-      "tls": {
-        "enabled": true,
-        "server_name": "de2.balancer.vbuste-bot.com",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "reality": {
-          "enabled": true,
-          "public_key": "0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08",
-          "short_id": "4be4110078ebed4a"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇳🇱 NL Нидерланды | 217.19.122.170:8443 | tcp+reality",
-      "server": "217.19.122.170",
-      "server_port": 8443,
-      "uuid": "7f6adf9d-42f1-4fec-ab22-fb7f66bf3adc",
-      "flow": "xtls-rprx-vision",
-      "tls": {
-        "enabled": true,
-        "server_name": "bm9.hat.onl",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "qq"
-        },
-        "reality": {
-          "enabled": true,
-          "public_key": "Dx5aV0n9e1j_YDhVk8Z4O9HPrg1HLAuGKlmQpgERgDo",
-          "short_id": "8eeca41a32d1523d"
+          "public_key": "KvXGx5NqnYnUxveJ3DSzQ2Zx_FlB6i-narUvQR-igX8",
+          "short_id": "e0f4c8a56b14f29b"
         }
       }
     },
@@ -325,43 +248,42 @@
     },
     {
       "type": "vless",
-      "tag": "🇫🇷 FR Франция | 185.163.126.96:443 | tcp+reality",
-      "server": "185.163.126.96",
+      "tag": "🇩🇪 DE ФРГ | 64.188.70.56:443 | tcp+reality",
+      "server": "de2.balancer.vbuste-bot.com",
       "server_port": 443,
-      "uuid": "f04c0548-d934-4361-8d04-b98292a78bf4",
+      "uuid": "318c935d-c195-41d3-99ad-9bbcfdab3386",
       "flow": "xtls-rprx-vision",
       "tls": {
         "enabled": true,
-        "server_name": "fr-1.techprovide.online",
+        "server_name": "de2.balancer.vbuste-bot.com",
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
         },
         "reality": {
           "enabled": true,
-          "public_key": "KvXGx5NqnYnUxveJ3DSzQ2Zx_FlB6i-narUvQR-igX8",
-          "short_id": "e0f4c8a56b14f29b"
+          "public_key": "0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08",
+          "short_id": "4be4110078ebed4a"
         }
       }
     },
     {
       "type": "vless",
-      "tag": "🇳🇱 NL Нидерланды | 201.51.25.136:443 | tcp+reality",
-      "server": "nl2.axolab.org",
-      "server_port": 443,
-      "uuid": "82e3cdff-0316-4a7e-837d-8a1a59c27df3",
-      "flow": "xtls-rprx-vision",
+      "tag": "🇩🇪 DE ФРГ | 23.88.39.46:1230 | tcp+reality",
+      "server": "p1real1.greewebservices.ir",
+      "server_port": 1230,
+      "uuid": "08e75d41-4638-4cb1-80a1-d0d55083de36",
       "tls": {
         "enabled": true,
-        "server_name": "static.yandex.net",
+        "server_name": "play.googleapis.com",
         "utls": {
           "enabled": true,
-          "fingerprint": "firefox"
+          "fingerprint": "chrome"
         },
         "reality": {
           "enabled": true,
-          "public_key": "k9BuzZPnzofDcPTaa7ROHNIc9ww2jy3tLAJ04GuKvAQ",
-          "short_id": "669d7ae5e1611511"
+          "public_key": "xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8",
+          "short_id": "9b60d3"
         }
       }
     },
@@ -388,62 +310,22 @@
     },
     {
       "type": "vless",
-      "tag": "🇸🇬 SG Сингапур | 13.229.157.214:46105 | tcp+reality",
-      "server": "funagfrdfs.alixxplay.com",
-      "server_port": 46105,
-      "uuid": "57beeeb0-03fc-4fc9-94da-7604488a7134",
+      "tag": "🇳🇱 NL Нидерланды | 217.19.122.170:8443 | tcp+reality",
+      "server": "217.19.122.170",
+      "server_port": 8443,
+      "uuid": "7f6adf9d-42f1-4fec-ab22-fb7f66bf3adc",
       "flow": "xtls-rprx-vision",
       "tls": {
         "enabled": true,
-        "server_name": "www.lamer.com.sg",
+        "server_name": "bm9.hat.onl",
         "utls": {
           "enabled": true,
-          "fingerprint": "safari"
+          "fingerprint": "qq"
         },
         "reality": {
           "enabled": true,
-          "public_key": "Lk5nwDxC2tr3J7hT8emhUUiMX8cHyKX9TiRj_EnAiik",
-          "short_id": "28f5c1f8f98a"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇳🇱 NL Нидерланды | 2.27.118.10:443 | tcp+reality",
-      "server": "2.27.118.10",
-      "server_port": 443,
-      "uuid": "d9fe2431-8351-41eb-b956-75d96dec5d4a",
-      "tls": {
-        "enabled": true,
-        "server_name": "ph-nl-s3784.cybercat.network",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "reality": {
-          "enabled": true,
-          "public_key": "goey7Sc4Xm6Nvdukb_DuoUnrkPSV0p4hPWbAmk2_AHc",
-          "short_id": "ecf1d9f7caa6ba67"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇩🇪 DE ФРГ | 116.203.7.223:34257 | tcp+reality",
-      "server": "116.203.7.223",
-      "server_port": 34257,
-      "uuid": "00ee2eeb-cb0e-453c-b151-c8cf28089d31",
-      "tls": {
-        "enabled": true,
-        "server_name": "play.google.com",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "edge"
-        },
-        "reality": {
-          "enabled": true,
-          "public_key": "5FkOfDtgsGr856IC5mE1c27qzl_HQ85onkcaIzd_qgk",
-          "short_id": "601e43eb94a28919"
+          "public_key": "Dx5aV0n9e1j_YDhVk8Z4O9HPrg1HLAuGKlmQpgERgDo",
+          "short_id": "8eeca41a32d1523d"
         }
       }
     },
@@ -470,27 +352,6 @@
     },
     {
       "type": "vless",
-      "tag": "🇸🇬 SG Сингапур | 13.229.157.214:35544 | tcp+reality",
-      "server": "funagfrdfs.alixxplay.com",
-      "server_port": 35544,
-      "uuid": "57beeeb0-03fc-4fc9-94da-7604488a7134",
-      "flow": "xtls-rprx-vision",
-      "tls": {
-        "enabled": true,
-        "server_name": "iosapps.itunes.apple.com",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "reality": {
-          "enabled": true,
-          "public_key": "HrcXRHtsitc_AVlN-_8fZuRgaP-Mqa_9JJotI9OnkVc",
-          "short_id": "25c79e5856c7"
-        }
-      }
-    },
-    {
-      "type": "vless",
       "tag": "🇳🇱 NL Нидерланды | 2.26.254.102:443 | tcp+reality",
       "server": "2.26.254.102",
       "server_port": 443,
@@ -512,7 +373,110 @@
     },
     {
       "type": "vless",
-      "tag": "🇳🇱 NL Нидерланды | 2.27.118.10:443 | tcp+reality #2",
+      "tag": "🇪🇪 EE Эстония | 138.124.100.29:443 | tcp+reality",
+      "server": "138.124.100.29",
+      "server_port": 443,
+      "uuid": "0011d187-d066-48f6-957c-a6983dd63a77",
+      "tls": {
+        "enabled": true,
+        "server_name": "est.netvora.space",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "KEpkyrOY2wV5h8_bA6doDT1e-lFjYd1jGHKDtDl8hSk",
+          "short_id": "141fb733511e7553"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇳🇴 NO Норвегия | 87.120.104.25:8443 | tcp+reality",
+      "server": "nw.shadownet.pro",
+      "server_port": 8443,
+      "uuid": "03e6c071-d34b-4236-9d06-a57cc364bede",
+      "flow": "xtls-rprx-vision",
+      "tls": {
+        "enabled": true,
+        "server_name": "yandex.ru",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "qq"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "RDoffndyw7wskux1uVqjlPPe_ikh3cisVEoyleiRlR4",
+          "short_id": ""
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇳🇱 NL Нидерланды | 78.159.250.214:443 | tcp+reality",
+      "server": "78.159.250.214",
+      "server_port": 443,
+      "uuid": "4054fdc2-ee80-4419-8a8e-d937df4719e2",
+      "flow": "xtls-rprx-vision",
+      "tls": {
+        "enabled": true,
+        "server_name": "qq.utiltools.site",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "firefox"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI",
+          "short_id": "00000000"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇧🇪 BE Бельгия | 109.69.218.164:443 | tcp+reality",
+      "server": "109.69.218.164",
+      "server_port": 443,
+      "uuid": "c28ee61d-0d43-4e69-8e6a-6397ed0ffc03",
+      "flow": "xtls-rprx-vision",
+      "tls": {
+        "enabled": true,
+        "server_name": "zealous-vortex.cdn.cachefleet.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "cv_KJnMzQUZruACPbH-BCgLWrYqPm2dbUymg-gW_sVc",
+          "short_id": ""
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇺🇸 US США | 216.126.233.253:15891 | tcp+reality",
+      "server": "n03.948905.xyz",
+      "server_port": 15891,
+      "uuid": "fabe1eb5-8700-44c4-ab87-41040573c3af",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.python.org",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "HE7KqlqqGWi191-GhuRH3MfwIc_wXu_amp1gSxD_234",
+          "short_id": ""
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇳🇱 NL Нидерланды | 2.27.118.10:443 | tcp+reality",
       "server": "2.27.118.10",
       "server_port": 443,
       "uuid": "d9fe2431-8351-41eb-b956-75d96dec5d4a",
@@ -532,7 +496,49 @@
     },
     {
       "type": "vless",
-      "tag": "🇳🇱 NL Нидерланды | 2.27.118.10:443 | tcp+reality #3",
+      "tag": "🇳🇱 NL Нидерланды | 176.119.141.136:8443 | tcp+reality",
+      "server": "176.119.141.136",
+      "server_port": 8443,
+      "uuid": "0828a0bc-8acf-422c-9fac-8ad885a0dbaf",
+      "flow": "xtls-rprx-vision",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.nvidia.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "Zfr2SDTLuLNtbRR4hGX0oE3z1wbK3XvwzrvUfPQNugE",
+          "short_id": "205f8d"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇩🇪 DE Германия | 188.241.241.36:8443 | tcp+reality",
+      "server": "188.241.241.36",
+      "server_port": 8443,
+      "uuid": "5c331d12-f0b0-48d8-ba6e-ec945ef889ea",
+      "flow": "xtls-rprx-vision",
+      "tls": {
+        "enabled": true,
+        "server_name": "d100.relay.logicnova.ru",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "firefox"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "GUqm415-hOCPsm5OJnca6iwSmgMUbX_UmEqWT9Ch60I",
+          "short_id": ""
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇳🇱 NL Нидерланды | 2.27.118.10:443 | tcp+reality #2",
       "server": "2.27.118.10",
       "server_port": 443,
       "uuid": "d9fe2431-8351-41eb-b956-75d96dec5d4a",
@@ -541,7 +547,7 @@
         "server_name": "ph-nl-s3784.cybercat.network",
         "utls": {
           "enabled": true,
-          "fingerprint": "firefox"
+          "fingerprint": "chrome"
         },
         "reality": {
           "enabled": true,
@@ -573,146 +579,22 @@
     },
     {
       "type": "vless",
-      "tag": "🇪🇪 EE Эстония | 138.124.100.29:443 | tcp+reality",
-      "server": "138.124.100.29",
-      "server_port": 443,
-      "uuid": "0011d187-d066-48f6-957c-a6983dd63a77",
+      "tag": "🇸🇬 SG Сингапур | 13.229.157.214:54528 | tcp+reality",
+      "server": "funagfrdfs.alixxplay.com",
+      "server_port": 54528,
+      "uuid": "57beeeb0-03fc-4fc9-94da-7604488a7134",
+      "flow": "xtls-rprx-vision",
       "tls": {
         "enabled": true,
-        "server_name": "est.netvora.space",
+        "server_name": "www.apple.com",
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
         },
         "reality": {
           "enabled": true,
-          "public_key": "KEpkyrOY2wV5h8_bA6doDT1e-lFjYd1jGHKDtDl8hSk",
-          "short_id": "141fb733511e7553"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇳🇱 NL Нидерланды | 217.19.122.38:443 | tcp+reality",
-      "server": "cdn-nl.fastik.club",
-      "server_port": 443,
-      "uuid": "d90d6ee8-d5f2-4f2c-b16b-825552452bed",
-      "flow": "xtls-rprx-vision",
-      "tls": {
-        "enabled": true,
-        "server_name": "wl-nl.fastik.club",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "firefox"
-        },
-        "reality": {
-          "enabled": true,
-          "public_key": "BLA1FtUubA7xzIwEnq1R0ujPJltSv9HtOozMTHgPHkw",
-          "short_id": "287f4457"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇳🇱 NL Нидерланды | 176.119.141.136:8443 | tcp+reality",
-      "server": "176.119.141.136",
-      "server_port": 8443,
-      "uuid": "0828a0bc-8acf-422c-9fac-8ad885a0dbaf",
-      "flow": "xtls-rprx-vision",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.nvidia.com",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "reality": {
-          "enabled": true,
-          "public_key": "Zfr2SDTLuLNtbRR4hGX0oE3z1wbK3XvwzrvUfPQNugE",
-          "short_id": "205f8d"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇺🇸 US США | 216.126.233.253:15891 | tcp+reality",
-      "server": "n03.948905.xyz",
-      "server_port": 15891,
-      "uuid": "fabe1eb5-8700-44c4-ab87-41040573c3af",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.python.org",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "reality": {
-          "enabled": true,
-          "public_key": "HE7KqlqqGWi191-GhuRH3MfwIc_wXu_amp1gSxD_234",
-          "short_id": ""
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇪🇪 EE Эстония | 141.98.165.53:443 | tcp+reality",
-      "server": "files.fastik.club",
-      "server_port": 443,
-      "uuid": "d90d6ee8-d5f2-4f2c-b16b-825552452bed",
-      "flow": "xtls-rprx-vision",
-      "tls": {
-        "enabled": true,
-        "server_name": "files.fastik.club",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "firefox"
-        },
-        "reality": {
-          "enabled": true,
-          "public_key": "xcT8sfm7eKgUcCkeJkHsrwgcSmBVdOsYSi7DF7WAREE",
-          "short_id": "31d27cb7bd36c2ca"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇧🇪 BE Бельгия | 109.69.218.164:443 | tcp+reality",
-      "server": "109.69.218.164",
-      "server_port": 443,
-      "uuid": "c28ee61d-0d43-4e69-8e6a-6397ed0ffc03",
-      "flow": "xtls-rprx-vision",
-      "tls": {
-        "enabled": true,
-        "server_name": "zealous-vortex.cdn.cachefleet.com",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "reality": {
-          "enabled": true,
-          "public_key": "cv_KJnMzQUZruACPbH-BCgLWrYqPm2dbUymg-gW_sVc",
-          "short_id": ""
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇳🇴 NO Норвегия | 87.120.104.25:8443 | tcp+reality",
-      "server": "nw.shadownet.pro",
-      "server_port": 8443,
-      "uuid": "03e6c071-d34b-4236-9d06-a57cc364bede",
-      "flow": "xtls-rprx-vision",
-      "tls": {
-        "enabled": true,
-        "server_name": "yandex.ru",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "qq"
-        },
-        "reality": {
-          "enabled": true,
-          "public_key": "RDoffndyw7wskux1uVqjlPPe_ikh3cisVEoyleiRlR4",
-          "short_id": ""
+          "public_key": "7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo",
+          "short_id": "54cca3c1c1c7"
         }
       }
     },
